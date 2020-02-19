@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is my first test file. Modified once again at 1:30 pm
+=======
+This is my first test file.
+Only for testing purpose.
+>>>>>>> b372852d362694ccd36d79f9d8cb12477278566b
